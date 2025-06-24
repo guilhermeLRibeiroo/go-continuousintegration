@@ -1,1 +1,1 @@
-Learning Github Actions
+Learning continuous integration with Github Actions
